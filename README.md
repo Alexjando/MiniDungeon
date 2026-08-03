@@ -1,4 +1,4 @@
-# 🗡️ Mini Dungeon Crawler (v1.07)
+# 🗡️ Mini Dungeon Crawler
 
 **Un motor de juego y Shooter Top-Down táctico construido desde CERO usando C++ nativo y Win32 API.**
 
